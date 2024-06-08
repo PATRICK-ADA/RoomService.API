@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>a0ab93ba-30d8-453e-9ece-2113bc454c11</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="KafkaFlow" Version="3.0.8" />
+    <PackageReference Include="KafkaFlow.Abstractions" Version="3.0.8" />
+    <PackageReference Include="KafkaFlow.Microsoft.DependencyInjection" Version="3.0.8" />
+    <PackageReference Include="KafkaFlow.Serializer" Version="2.5.1" />
+    <PackageReference Include="KafkaFlow.Serializer.JsonCore" Version="3.0.8" />
+   
+    <PackageReference Include="KafkaFlow.TypedHandler" Version="2.5.1" />
+    <PackageReference Include="MassTransit" Version="8.2.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Ini" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.6" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+</Project>

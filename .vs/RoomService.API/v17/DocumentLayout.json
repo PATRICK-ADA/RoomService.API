@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC59BE-7DC9-4781-84F5-E2D2B34A7B40}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC59BE-7DC9-4781-84F5-E2D2B34A7B40}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|solutionrelative:roomservice.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DA4647-566A-4E32-9482-2C739AE9A5B9}|RoomService.Domain\\RoomService.Domain.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.domain\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DA4647-566A-4E32-9482-2C739AE9A5B9}|RoomService.Domain\\RoomService.Domain.csproj|solutionrelative:roomservice.domain\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DA4647-566A-4E32-9482-2C739AE9A5B9}|RoomService.Domain\\RoomService.Domain.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.domain\\entities\\bidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DA4647-566A-4E32-9482-2C739AE9A5B9}|RoomService.Domain\\RoomService.Domain.csproj|solutionrelative:roomservice.domain\\entities\\bidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.core\\abstraction\\ikafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|solutionrelative:roomservice.core\\abstraction\\ikafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.core\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|solutionrelative:roomservice.core\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA15B17B-C0AA-4831-98EE-B5683473C5F6}|RoomService.API\\RoomService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA15B17B-C0AA-4831-98EE-B5683473C5F6}|RoomService.API\\RoomService.API.csproj|solutionrelative:roomservice.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.core\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|solutionrelative:roomservice.core\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.core\\abstraction\\ikafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|solutionrelative:roomservice.core\\abstraction\\ikafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.core\\abstraction\\ibidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|solutionrelative:roomservice.core\\abstraction\\ibidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\roomservice.api\\chatapi.roomservice\\roomservice.core\\abstraction\\ibidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D086000A-7466-4978-96DC-B2008D7CF831}|RoomService.Core\\RoomService.Core.csproj|solutionrelative:roomservice.core\\abstraction\\ibidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 191,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 5,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RoomService.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RoomService.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:37:25.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Domain\\Entities\\UserModel.cs",
+              "RelativeDocumentMoniker": "RoomService.Domain\\Entities\\UserModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Domain\\Entities\\UserModel.cs",
+              "RelativeToolTip": "RoomService.Domain\\Entities\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:37:05.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BidModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Domain\\Entities\\BidModel.cs",
+              "RelativeDocumentMoniker": "RoomService.Domain\\Entities\\BidModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Domain\\Entities\\BidModel.cs",
+              "RelativeToolTip": "RoomService.Domain\\Entities\\BidModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:37:02.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IUserService.cs",
+              "RelativeDocumentMoniker": "RoomService.Core\\Abstraction\\IUserService.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IUserService.cs",
+              "RelativeToolTip": "RoomService.Core\\Abstraction\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:55:34.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RoomService.Core\\Abstraction\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IUserRepository.cs",
+              "RelativeToolTip": "RoomService.Core\\Abstraction\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:55:24.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IKafKaPublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IKafKaPublisherService.cs",
+              "RelativeDocumentMoniker": "RoomService.Core\\Abstraction\\IKafKaPublisherService.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IKafKaPublisherService.cs",
+              "RelativeToolTip": "RoomService.Core\\Abstraction\\IKafKaPublisherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:55:21.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IKafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "RoomService.Core\\Abstraction\\IKafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IKafkaConsumerService.cs",
+              "RelativeToolTip": "RoomService.Core\\Abstraction\\IKafkaConsumerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:55:19.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBidService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IBidService.cs",
+              "RelativeDocumentMoniker": "RoomService.Core\\Abstraction\\IBidService.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IBidService.cs",
+              "RelativeToolTip": "RoomService.Core\\Abstraction\\IBidService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:55:16.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBidRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IBidRepository.cs",
+              "RelativeDocumentMoniker": "RoomService.Core\\Abstraction\\IBidRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.Core\\Abstraction\\IBidRepository.cs",
+              "RelativeToolTip": "RoomService.Core\\Abstraction\\IBidRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:55:11.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.API\\Dockerfile",
+              "RelativeDocumentMoniker": "RoomService.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\RoomService.API\\ChatApi.RoomService\\RoomService.API\\Dockerfile",
+              "RelativeToolTip": "RoomService.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-07T23:37:09.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

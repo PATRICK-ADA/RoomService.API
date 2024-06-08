@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "RoomService.API.Controllers.BidsController",
+    "Method": "SendBid",
+    "RelativePath": "api/Bids/sendBidsToKafka",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "RoomService.Domain.BidDto.BidDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "LoginUser",
+    "RelativePath": "api/User/Login-User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "RoomService.Domain.UserDto.UsersDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/Register-User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "RoomService.Domain.UserDto.UsersDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
